@@ -1,0 +1,9 @@
+https://www.w3schools.com/git/git_exercises.asp?remote=github
+
+
+Task 1
+
+create git repo
+git config 
+git commit and push
+
